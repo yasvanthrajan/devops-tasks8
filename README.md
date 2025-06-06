@@ -37,7 +37,8 @@ hello-java-maven/
 ---
 
 ## ✅ Output Screenshot
-> _Attached in the repo_ → `build-success-screenshot.png`
+![image](https://github.com/user-attachments/assets/e9a980cd-4e48-479c-97c3-c8a30a7b34b2)
+
 
 ---
 
